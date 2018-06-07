@@ -36,6 +36,6 @@ def turn(board)
 end
 
 def play(board)
-  until 
+  9.
 
 # Define your play method below
